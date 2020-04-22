@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://willianmano.github.io/moove/docs/getting-started/</loc>
+    <lastmod>2020-04-21T23:30:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willianmano.github.io/moove/docs/installation/</loc>
+    <lastmod>2020-04-21T23:30:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willianmano.github.io/moove/docs/faq/</loc>
+    <lastmod>2020-04-21T23:30:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://willianmano.github.io/moove/docs/</loc>
+    <lastmod>2020-04-21T23:30:04-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt_br"
+                href="https://willianmano.github.io/moove/pt_br/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://willianmano.github.io/moove/docs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://willianmano.github.io/moove/</loc>
+    <lastmod>2020-04-21T18:52:15-03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt_br"
+                href="https://willianmano.github.io/moove/pt_br/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://willianmano.github.io/moove/"
+                />
+  </url>
+  
+</urlset>
