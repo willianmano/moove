@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moove theme – Theme Moove</title>
-    <link>https://willianmano.github.io/moove/</link>
+    <link>http://willianmano.github.io/moove/</link>
     <description>Recent content in Theme Moove on Moove theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://willianmano.github.io/moove/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://willianmano.github.io/moove/index.xml" rel="self" type="application/rss+xml" />
     
     
       
